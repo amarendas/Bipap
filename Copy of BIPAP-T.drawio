@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-22T18:24:05.393Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="oN02N21kVArXULTpEzBk" version="13.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-22T18:28:28.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="ZIdyUl5Naz_cGI4-92WU" version="13.7.4" type="github">
   <diagram id="CBkBxMGbKQIa2tWG8Eqj" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -249,9 +249,6 @@
         </mxCell>
         <mxCell id="_8RPCpvjZjzcBCwXv_I6-44" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Read Current Pressur -&amp;gt;ActPR&lt;/li&gt;&lt;li&gt;Run PID-Loop(SetPr,ActPr,Output)&lt;/li&gt;&lt;li&gt;Print Measured Pressure to LCD&lt;/li&gt;&lt;li&gt;Set Blower PWM-&amp;gt; Output&lt;br&gt;&lt;/li&gt;&lt;li&gt;Read FlowRate&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="280" y="850" width="240" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="ikbd0YLyJ07GOoHk70pH-47" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="165" y="590" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
